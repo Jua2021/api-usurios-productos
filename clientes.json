@@ -1,0 +1,7 @@
+[
+  { "nombre": "Ana Torres", "correo": "ana.torres@email.com", "telefono": "3001234567" },
+  { "nombre": "Luis Gómez", "correo": "luis.gomez@email.com", "telefono": "3012345678" },
+  { "nombre": "María Rodríguez", "correo": "maria.rodriguez@email.com", "telefono": "3023456789" },
+  { "nombre": "Carlos Pérez", "correo": "carlos.perez@email.com", "telefono": "3034567890" },
+  { "nombre": "Sofía Martínez", "correo": "sofia.martinez@email.com", "telefono": "3045678901" }
+]
